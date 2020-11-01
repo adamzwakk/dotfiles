@@ -7,6 +7,10 @@
 
 PATH="$PATH:$(du "$HOME/.local/bin" | cut -f2 | paste -sd ':')"
 
+export XDG_CONFIG_HOME="$HOME/.config"
+
+export WEECHAT_HOME="$XDG_CONFIG_HOME"/weechat
+
 alias ls='ls --color=auto'
 # PS1='[\u@\h \W]\$ '
 
@@ -15,4 +19,4 @@ alias awake='xbacklight -set 60 && pkill -RTMIN+11 dwmblocks && redshift -x > /d
 
 alias yyy='yay -Syu'
 alias la='ls -la'
-alias stdf="stow --target=$HOME *"
+alias stdf="stow --target=$HOME"
