@@ -1,0 +1,5 @@
+XF86Audio{Raise,Lower}Volume
+    amixer set Master 1{+,-} && pkill -RTMIN+10 dwmblocks
+
+XF86MonBrightness{Up,Down}
+    xbacklight -{inc,dec} 5 && pkill -RTMIN+11 dwmblocks
