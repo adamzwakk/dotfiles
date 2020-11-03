@@ -19,7 +19,7 @@ export WGETRC="$XDG_CONFIG_HOME/wgetrc"
 export WEECHAT_HOME="$XDG_CONFIG_HOME/weechat"
 export HISTFILE="$XDG_DATA_HOME/bash/history"
 alias less='less --lesskey-file=$XDG_CONFIG_HOME/lesskey'
-alias less='man --pager="less --lesskey-file=$XDG_CONFIG_HOME/lesskey"'
+alias man='man --pager="less --lesskey-file=$XDG_CONFIG_HOME/lesskey"'
 
 # Just nice to have aliases
 alias ls='ls --color=auto'
