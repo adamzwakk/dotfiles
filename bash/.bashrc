@@ -23,7 +23,7 @@ alias less='man --pager="less --lesskey-file=$XDG_CONFIG_HOME/lesskey"'
 
 # Just nice to have aliases
 alias ls='ls --color=auto'
-alias bedtime='xbacklight -set 1 && pkill -RTMIN+11 dwmblocks && redshift -x -P -O 1500 > /dev/null 2>&1'
+alias bedtime='xbacklight -set 1 && pkill -RTMIN+11 dwmblocks && pgrep redshift >/dev/null && killall -q -w -s 9 redshift; redshift -P -O 1500 & > /dev/null 2>&1'
 alias awake='xbacklight -set 60 && pkill -RTMIN+11 dwmblocks && pgrep redshift >/dev/null && killall -q -w -s 9 redshift; redshift -P & > /dev/null 2>&1'
 
 alias yyy='yay -Syu'
