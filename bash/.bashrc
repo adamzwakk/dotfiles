@@ -19,6 +19,7 @@ export WGETRC="$XDG_CONFIG_HOME/wgetrc"
 export WEECHAT_HOME="$XDG_CONFIG_HOME/weechat"
 export HISTFILE="$XDG_DATA_HOME/bash/history"
 export LESSHISTFILE=-
+alias prboom-plus='prboom-plus -config "$XDG_CONFIG_HOME/prboom-plus/config.cfg"'
 
 # Just nice to have aliases
 alias ls='ls --color=auto'
