@@ -15,3 +15,5 @@ export WEECHAT_HOME="$XDG_CONFIG_HOME/weechat"
 export HISTFILE="$XDG_DATA_HOME/bash/history"
 export LESSHISTFILE=-
 export ZDOTDIR="${XDG_CONFIG_HOME:-$HOME/.config}/zsh"
+
+[[ -f ~/.bashrc ]] && . ~/.bashrc
