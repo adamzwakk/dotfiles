@@ -4,7 +4,7 @@
 alias prboom-plus='prboom-plus -config "$XDG_CONFIG_HOME/prboom-plus/config.cfg"'
 
 # Just nice to have aliases
-alias ls='ls --color=auto'
+alias ls="ls -hN --color=auto --group-directories-first"
 alias bedtime='xbacklight -set 1 && pkill -RTMIN+11 dwmblocks && pgrep redshift >/dev/null && killall -q -w
 -s 9 redshift; redshift -P -O 1500 & > /dev/null 2>&1'
 alias awake='xbacklight -set 60 && pkill -RTMIN+11 dwmblocks && pgrep redshift >/dev/null && killall -q -w -s 9 redshift; redshift -P & > /dev/null 2>&1'
