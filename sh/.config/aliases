@@ -11,3 +11,5 @@ alias awake='xbacklight -set 60 && pkill -RTMIN+11 dwmblocks && pgrep redshift >
 alias yyy='yay -Syu'
 alias la='ls -la'
 alias stdf="stow --target=$HOME"
+alias nb="newsboat -q"
+alias ka="killall $1"

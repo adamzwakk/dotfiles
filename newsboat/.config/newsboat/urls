@@ -21,3 +21,18 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCM0V8r4kuIWIl6Sy-NHj2lg "~[
 https://www.youtube.com/feeds/videos.xml?channel_id=UCRbOPaGDB_xOQkVM8Rnn62Q "~[Youtube] I Hate Everything" "Video Essays" Movies
 https://www.youtube.com/feeds/videos.xml?channel_id=UCjFaPUcJU1vwk193mnW_w1w "~[Youtube] Modern Vintage Gamer" "Video Essays" Gaming Retro
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7j2nATL5qX-CfzdFvNfPtA "~[Youtube] Juzcook" "Lets Play" Gaming Mario SMW
+
+### News Sites ###
+https://www.phoronix.com/rss.php Linux News
+https://distrowatch.com/news/dw.xml Linux News
+https://suckless.org/atom.xml Linux News Minimalism
+
+http://feeds.arstechnica.com/arstechnica/features "~Ars Technica Features" News Tech ArsTechnica
+http://feeds.arstechnica.com/arstechnica/gaming "~Ars Technica Gaming" News Gaming ArsTechnica
+http://feeds.arstechnica.com/arstechnica/technology-lab "~Ars Technica Tech Lab" News Tech ArsTechnica
+#"query:ArsTechnica:tags # \"ArsTechnica\""
+
+https://threatpost.com/feed/ News Tech
+
+### Github Repos ###
+https://github.com/agarrharr/awesome-cli-apps/commits/master.atom Linux Minimalism Repo "~[Github] awesome-cli-apps"
