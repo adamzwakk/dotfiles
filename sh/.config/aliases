@@ -2,8 +2,6 @@
 
 # Homedir cleanup
 alias prboom-plus='prboom-plus -config "$XDG_CONFIG_HOME/prboom-plus/config.cfg"'
-alias less='less --lesskey-file=$XDG_CONFIG_HOME/lesskey'
-alias man='man --pager="less --lesskey-file=$XDG_CONFIG_HOME/lesskey"'
 
 # Just nice to have aliases
 alias ls="ls -hN --color=auto --group-directories-first"
