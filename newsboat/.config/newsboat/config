@@ -2,7 +2,7 @@ auto-reload yes
 reload-time 180
 browser linkhandler
 reload-threads 100
-feed-sort-order	date
+feed-sort-order	unreadarticlecount-asc
 external-url-viewer "urlscan -dc -r 'linkhandler {}'"
 
 macro m set browser "/usr/bin/mpv --really-quiet --ytdl-format=best[height=720] %u"; open-in-browser ; set browser "/usr/local/bin/surf %u"
