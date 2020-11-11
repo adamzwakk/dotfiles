@@ -8,10 +8,10 @@ external-url-viewer "urlscan -dc -r 'linkhandler {}'"
 openbrowser-and-mark-jumps-to-next-unread yes
 goto-next-feed no
 
-macro m set browser "/usr/bin/mpv --really-quiet --ytdl-format=best[height=720] %u"; open-in-browser ; set browser "/usr/local/bin/surf %u"
+#macro m set browser "/usr/bin/mpv --really-quiet --ytdl-format=best[height=720] %u"; open-in-browser ; set browser "/usr/local/bin/surf %u"
 
 feedlist-format     "%n %11u %t"
-articlelist-format  "%D %?T?| %=14T | ?%t"
+articlelist-format  "%D %?T?| %-14T | ?%t"
 
 color listnormal cyan default
 color listfocus black yellow standout bold
