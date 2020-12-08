@@ -78,7 +78,7 @@ http://feeds.arstechnica.com/arstechnica/features "~Ars Technica Features" News 
 http://feeds.arstechnica.com/arstechnica/gaming "~Ars Technica Gaming" News Gaming ArsTechnica "!hidden"
 http://feeds.arstechnica.com/arstechnica/technology-lab "~Ars Technica Tech Lab" News Tech ArsTechnica "!hidden"
 
-https://threatpost.com/feed/ News Tech
+https://threatpost.com/feed/ News Tech "!hidden"
 https://www.blu-ray.com/rss/newsfeed.xml Movies "!hidden"
 
 ### Github Repos ###
