@@ -10,6 +10,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCEp20NgOZHmgWdbQdHSxgjw "~T
 https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "~Linus Tech Tips" Relaxing DIY Gaming Computers Tech Youtube "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q "~Technology Connections" Relaxing Retro Computers Tech Youtube "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5I2hjZYiW9gZPVkvzM8_Cw "~Techmoan" Relaxing Retro Computers Tech Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuvSqzfO_LV_QzHdmEj84SQ "~Kaze" Retro Mario Gaming Youtube "!hidden"
 
 # Mario Streamers
 https://www.youtube.com/feeds/videos.xml?channel_id=UCNUzWfHUP_iXZ1GMHz8gBgw "~Ryukhar" Gaming Mario "Lets Play" Youtube "!hidden"
@@ -28,6 +29,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCjFaPUcJU1vwk193mnW_w1w "~M
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtUbO6rBht0daVIOGML3c8w "~Summoning Salt" "Video Essays" Gaming Youtube Speedruns "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpvtp7mH0Cdq8FQUxcjDq0Q "~My Life In Gaming" "Video Essays" Gaming Youtube Retro "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4rqhyiTs7XyuODcECvuiiQ "~ScottTheWoz" Gaming "Video Essays" Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPIBtu2SBuW_VFHwKwDOtYg "~minimme" Gaming "Video Essays" Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTNFR9XisKMlurGrPzizOzA "~Crtical Nobody" Gaming "Video Essays" Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCp-XZhyQLcJ8X65eT1T3XyQ "~AntDude" Gaming "Video Essays" Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOkL7q2SeGZeZuj22njMYEA "~Caddicarus" Gaming "Video Essays" Youtube "!hidden"
 
 # Doom
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrYr2EMXw976tEpLxHhr1Rg "~MtPain27 (Dean of Doom)" Doom Gaming Youtube "!hidden"
@@ -48,13 +53,20 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCskD50ri3723Tk1SkS-qAIA "~E
 
 # DIY/Science
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLJtitKU0CAehsdcybehbPFHObmWsKtQcY "~Adam Savage" Relaxing Science Tech DIY Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLJtitKU0CAeijYFoPJQ9eUcxDZUrpST4n "~Adam Savage" Relaxing Science Tech DIY Youtube "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCgeStlUnitobx8QcSxTw2aQ "~Ben Heck" Relaxing Scient Tech DIY Youtube "!hidden"
+
+# Odd Game Console Stuff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRg2tBkpKYDxOKtX3GvLZcQ "~Retro Dodo" Gaming Retro DIY Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw "~Retro Game Corps" Gaming Retro DIY Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCefAbzsWZE4uXU-mqQMrr4Q "~Retro Future" Gaming Retro DIY Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChrYe70o7NmDioL02PRVWVg "~MattKC" Gaming Retro DIY Youtube "!hidden"
 
 # Idk where to put you sry
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4P1wf7gNZ1A19xNw863KwQ "~Paymoneywubby" Memes Bullshit Trending Youtube "!hidden"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCRg2tBkpKYDxOKtX3GvLZcQ "~Retro Dodo" Gaming Retro DIY Youtube "!hidden"
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ "~Hot Ones" Food Celebrities Trending Youtube "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCIEv3lZ_tNXHzL3ox-_uUGQ "~Gordon Ramsay" Food Celebrities Trending Youtube "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpa-Zb0ZcQjTCPP1Dx_1M8Q "~Legal Eagle" Legal Trending Youtube "!hidden"
 
 "query:[YouTube] Mario:tags # \"Youtube\" and tags # \"Mario\""
 "query:Linux/BSD:tags # \"Linux\""
